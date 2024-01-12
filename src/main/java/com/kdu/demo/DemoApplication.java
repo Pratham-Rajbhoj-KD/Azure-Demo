@@ -18,7 +18,7 @@ public class DemoApplication {
 class HelloController {
 	@GetMapping("/")
 	public String index() {
-		return "Hello Prathamesh Rajbhoj, KD-24 batch (CLI)";
+		return "Hello Prathamesh Rajbhoj, KD-24 batch (Azure)";
 	}
 }
 
